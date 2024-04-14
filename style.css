@@ -1,0 +1,8 @@
+@font-face {
+  font-family: hankenfont;
+  src: url(./assets/fonts/HankenGrotesk-VariableFont_wght.ttf);
+}
+
+body {
+  font-family: hankenfont;
+}
